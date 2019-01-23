@@ -6,6 +6,10 @@
     margin-bottom: 20px;
 }
 
+.card-body {
+    background: #e9ecef;
+}
+
 .container {
     margin: 20px auto;
 }
