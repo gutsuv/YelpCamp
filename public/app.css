@@ -1,3 +1,18 @@
+img {
+    min-height: 100%;
+    min-width: 100%;
+}
+
+.cutoff {
+    max-height: 250px;
+    width: 100%;
+    overflow: hidden;
+}
+
+.bg-light {
+    background-color: #f0f1f2!important;
+}
+
 .inline-b {
     display: inline-block;
 }
@@ -8,6 +23,14 @@
 
 .card-body {
     background: #e9ecef;
+}
+
+.custom-grey {
+    background: #e9ecef;
+}
+
+.btn-customred {
+    background: #ffebeb;
 }
 
 .container {
